@@ -1,0 +1,5 @@
+{
+  "name": "WikiRace BR",
+  "description": "A multiplayer game where players race from a random Wikipedia page to a target theme using only internal links.",
+  "requestFramePermissions": []
+}
